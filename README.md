@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kluconpharmer&label=Profile%20views&color=0e75b6&style=flat" alt="kluconpharmer" /> </p>
 
-- 🔭 I’m currently working on **portoflio projetcs**
+- 🔭 I’m currently working on **portoflio projects**
 
 - 🌱 I’m currently learning **MERN Stack - MongoDB, Express, React, Node**
 
